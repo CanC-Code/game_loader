@@ -1,0 +1,5 @@
+game_loader/│
+
+├── game_loader.py       # The GUI loader script
+├── games/               # Subfolder for game fi│les
+  ├─ ─ pinball.py       # Pinball game script
